@@ -1,9 +1,7 @@
-
-![Hello There!](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-# **Nomi - Full Stack AI & Mobile Developer**
+# **Nomi - Full Stack AI Mobile & Web Developer**
 
 ## 🚀 About Me
+
 Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate about building intelligent, scalable, and user-friendly applications. With expertise in **AI, Web & Mobile Development, AR/VR, and Cybersecurity**, I create innovative solutions that push the boundaries of technology.
 
 ---
@@ -11,47 +9,116 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Programming & Scripting Languages
-![Python](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg) ![JavaScript](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg) ![Java](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg) ![C](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/c-original.svg) ![Bash](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/bash-original.svg)
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"></td>
+</tr>
+</table>
 
 ### 🌐 Frontend & UI Development
-![Next.js](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg) ![React](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg) ![HTML5](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg) ![CSS3](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/css3-original.svg)
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30"></td>
+</tr>
+</table>
 
 ### 🛠 Backend & Database
-![Node.js](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg) ![GraphQL](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/graphql-plain.svg) ![MongoDB](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg) ![MySQL](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mysql-original.svg)
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="30"></td>
+</tr>
+</table>
 
 ### 📱 Mobile & AR/VR Development
-- **React Native** – Cross-platform mobile development
-- **Unity & Unreal Engine** – AR/VR immersive experiences
-- **WebXR** – Browser-based virtual reality
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/webxr/webxr-original.svg" width="30"></td>
+</tr>
+</table>
 
 ### 🔒 Cybersecurity & DevOps
-- **Linux & Bash Scripting** – Secure server management
-- **Docker & Kubernetes** – Scalable deployment
-- **Cloud Security Practices** – Protecting applications
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"></td>
+</tr>
+</table>
 
 ### 🖥 Development Tools
-![VS Code](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/vscode-original.svg) ![NetBeans](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Apache_NetBeans.svg) ![Vim](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Vim.svg)
+
+<table>
+<tr>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30"></td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 What I'm Working On
-- 🤖 **AI-Powered Web & Mobile Apps** for businesses
-- 🎮 **AR/VR Experiences** for gaming and industrial applications
-- 🔍 **Cybersecurity Solutions** for secure digital systems
-- 📈 **AI & ML Models** for predictive analytics
+
+<table>
+<tr>
+<td>🤖 AI-Powered Web & Mobile Apps</td>
+<td>🎮 AR/VR Experiences</td>
+<td>🔍 Cybersecurity Solutions</td>
+<td>📈 AI & ML Models</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 What I'm Learning
-- ⚙️ **Rust & Go** – For high-performance system programming
-- 🔗 **Blockchain & Web3** – Decentralized applications
-- 🔐 **Advanced Cybersecurity Practices** – Strengthening system security
+
+<table>
+<tr>
+<td>⚙️ Rust & Go</td>
+<td>🔗 Blockchain & Web3</td>
+<td>🔐 Advanced Cybersecurity Practices</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Let's Connect!
+
 🌎 [Website](https://seedinov.com)
 
 ---
 
-_"Building the future, one line of code at a time."_
+*"Building the future, one line of code at a time."*
+
