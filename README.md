@@ -8,6 +8,19 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 
 ## 🔧 Tech Stack & Tools
 
+### 🤖 Machine/Deep Learning
+
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30"></td>
+</tr>
+</table>
+
 ### 💻 Programming & Scripting Languages
 
 <table>
@@ -106,6 +119,7 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 
 <table>
 <tr>
+<td>🧠 Large Language Models (LLMs)</td>
 <td>⚙️ Rust & Go</td>
 <td>🔗 Blockchain & Web3</td>
 <td>🔐 Advanced Cybersecurity Practices</td>
