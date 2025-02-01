@@ -1,47 +1,57 @@
-![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-#### *~learning computer here and there*
+![Hello There!](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
+# **Nomi - Full Stack AI & Mobile Developer**
 
-`Stuffs I Use`
-<table>
-<tbody>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/vscode-original.svg" alt="VS code" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Apache_NetBeans.svg" alt="Netbeans" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Vim.svg" alt="Vim" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/brave-browser.svg" alt="Brave Browser" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/firefox-original.svg" alt="Firefox Browser" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Windows_Terminal_logo.png" alt="Windows Terminal" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/konsole.svg" alt="Konsole" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
-</tbody>
-</table>
+## 🚀 About Me
+Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate about building intelligent, scalable, and user-friendly applications. With expertise in **AI, Web & Mobile Development, AR/VR, and Cybersecurity**, I create innovative solutions that push the boundaries of technology.
 
+---
 
-`Stuffs I Do`
-<table>
-<tbody>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg" alt="Python" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg" alt="Java" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/c-original.svg" alt="C" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/css3-original.svg" alt="CSS" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg" alt="HTML" width="40" height="40"></td>   
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg" alt="Javascript" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/discordjs-original.svg" alt="DiscordJS" width="40" height="40"></td>
-</tbody>
-</table>
+## 🔧 Tech Stack & Tools
 
+### 💻 Programming & Scripting Languages
+![Python](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg) ![JavaScript](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg) ![Java](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg) ![C](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/c-original.svg) ![Bash](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/bash-original.svg)
 
-`Stuffs I'm Learning`
-<table>
-<tbody>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/linux-original.svg" alt="Linux" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/bash-original.svg" alt="Bash" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mysql-original.svg" alt="mySQL" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg" alt="MongoDB" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/graphql-plain.svg" alt="GraphQL" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.svg" alt="Latex" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/markdown-original.svg" alt="Markdown" width="40" height="40"></td>
-</tbody>
-</table>
+### 🌐 Frontend & UI Development
+![Next.js](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg) ![React](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg) ![HTML5](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg) ![CSS3](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/css3-original.svg)
+
+### 🛠 Backend & Database
+![Node.js](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg) ![GraphQL](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/graphql-plain.svg) ![MongoDB](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg) ![MySQL](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mysql-original.svg)
+
+### 📱 Mobile & AR/VR Development
+- **React Native** – Cross-platform mobile development
+- **Unity & Unreal Engine** – AR/VR immersive experiences
+- **WebXR** – Browser-based virtual reality
+
+### 🔒 Cybersecurity & DevOps
+- **Linux & Bash Scripting** – Secure server management
+- **Docker & Kubernetes** – Scalable deployment
+- **Cloud Security Practices** – Protecting applications
+
+### 🖥 Development Tools
+![VS Code](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/vscode-original.svg) ![NetBeans](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Apache_NetBeans.svg) ![Vim](https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Vim.svg)
+
+---
+
+## 🚀 What I'm Working On
+- 🤖 **AI-Powered Web & Mobile Apps** for businesses
+- 🎮 **AR/VR Experiences** for gaming and industrial applications
+- 🔍 **Cybersecurity Solutions** for secure digital systems
+- 📈 **AI & ML Models** for predictive analytics
+
+---
+
+## 📚 What I'm Learning
+- ⚙️ **Rust & Go** – For high-performance system programming
+- 🔗 **Blockchain & Web3** – Decentralized applications
+- 🔐 **Advanced Cybersecurity Practices** – Strengthening system security
+
+---
+
+## 📫 Let's Connect!
+🌎 [Website](https://seedinov.com)
+
+---
+
+_"Building the future, one line of code at a time."_
