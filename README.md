@@ -17,7 +17,7 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="30"></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"></td>
@@ -58,7 +58,7 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="30"></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/webxr/webxr-original.svg" width="30"></td>
+<td><img src="https://avatars.githubusercontent.com/u/34385910?s=200&v=4" width="30"></td>
 </tr>
 </table>
 
@@ -70,7 +70,7 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30"></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30"></td>
 </tr>
 </table>
 
@@ -82,7 +82,7 @@ Hi there! I'm **Nomi**, a **Full Stack AI Web & Mobile Developer** passionate ab
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30"></td>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30">
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30"></td>
 </tr>
 </table>
